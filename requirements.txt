@@ -3,3 +3,4 @@ numpy>=1.20.0
 scikit-learn>=1.0.0
 pennylane>=0.30.0
 autoray<0.8
+shap>=0.40.0
