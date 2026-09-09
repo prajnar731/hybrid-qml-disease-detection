@@ -4,3 +4,7 @@ scikit-learn>=1.0.0
 pennylane>=0.30.0
 autoray<0.8
 shap>=0.40.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+pydantic>=2.0.0
+httpx>=0.24.0
